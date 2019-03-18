@@ -1,0 +1,19 @@
+body {
+    background-color: #f2f2f2;
+    padding-top: 50px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: #15C2D2;
+    font-weight: lighter;
+}
+button {
+    display: block;
+    font-size: 16px;
+    padding: 10px 20px 8px;
+    margin-top: 20px;
+}
+img { max-width:500px; 
+}
